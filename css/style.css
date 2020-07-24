@@ -1,0 +1,6 @@
+.container-one{
+    background-image: url("/assets/backgrounds/h_img.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 120vh;
+}
