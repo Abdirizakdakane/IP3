@@ -1,6 +1,77 @@
-.container-one{
+.container-one {
     background-image: url("/assets/backgrounds/h_img.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     height: 120vh;
+    padding-top: 20%;
+}
+
+.container-three {
+    background-image: url("/assets/backgrounds/s_image.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 60vh;
+    padding-top: 8%;
+}
+
+#contact {
+    background-image: url("/assets/backgrounds/c_image.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 60vh;
+    padding-top: 3%;
+}
+
+h1 {
+    color: white;
+    font-size: 2.5;
+}
+
+.container-one p {
+    color: white;
+}
+
+.container-three p, h3 {
+    color: white;
+}
+
+.pet {
+    padding-top: 18%;
+}
+
+input {
+    width: 100%;
+}
+
+#name {
+    background-color: transparent;
+    outline: none;
+    box-shadow: none;
+    color: whitesmoke;
+}
+
+#message {
+    background-color: transparent;
+    outline: none;
+    box-shadow: none;
+    color: whitesmoke;
+}
+
+#email {
+    background-color: transparent;
+    outline: none;
+    box-shadow: none;
+    color: whitesmoke;
+}
+
+
+.form-control::placeholder {
+    color: white;
+    width: 100%;
+}
+
+.button {
+    border: none;
+    width: 100%;
+    padding: 4px;
 }
