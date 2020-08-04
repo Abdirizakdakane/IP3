@@ -1,5 +1,5 @@
 .container-one {
-    background-image: url("../assets/backgrounds/h_img.jpg");
+    background-image: url("./assets/backgrounds/h_img.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     height: 120vh;
@@ -7,7 +7,7 @@
 }
 
 .container-three {
-    background-image: url("../assets/backgrounds/s_image.jpg");
+    background-image: url("./assets/backgrounds/s_image.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     height: 60vh;
@@ -15,7 +15,7 @@
 }
 
 #contact {
-    background-image: url("../assets/backgrounds/c_image.jpg");
+    background-image: url("./assets/backgrounds/c_image.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     height: 60vh;
